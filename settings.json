@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "fingerfish.aternos.host",
-    "port": 57463,
+    "port": 12345,
     "version": "",
     "try-creative": false
   },
