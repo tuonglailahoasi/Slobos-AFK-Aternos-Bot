@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bocaccio.aternos.host:57463",
+    "ip": "fingerfish.aternos.host",
     "port": 57463,
     "version": "",
     "try-creative": false
