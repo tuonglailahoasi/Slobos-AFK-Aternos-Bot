@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MinecraftJV-OAsF.aternos.me",
+    "ip": "bocaccio.aternos.host:57463",
     "port": 57463,
     "version": "",
     "try-creative": false
